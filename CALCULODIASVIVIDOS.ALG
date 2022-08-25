@@ -1,10 +1,10 @@
 Algoritmo "CalculoDiasVividos"
 
-// Disciplina : [Lógica de Programação e JavaScript]
+// Disciplina : [LÃ³gica de ProgramaÃ§Ã£o e JavaScript]
 
 // Professor : Jailson Costa dos Santos
 
-// Descrição : Solicitar a base e altura do retangulo e calcular a area
+// DescriÃ§Ã£o : 
 
 // Autor(a) : William Cirino
 
@@ -12,7 +12,7 @@ Algoritmo "CalculoDiasVividos"
 
 Var
 
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 
 ano,meses,dias,diasvividos:inteiro
 
@@ -20,9 +20,9 @@ ano,meses,dias,diasvividos:inteiro
 
 Inicio
 
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
-Escreval("Digite quantos anos completos você possui")
+Escreval("Digite quantos anos completos vocÃª possui")
 
 Leia(ano)
 
